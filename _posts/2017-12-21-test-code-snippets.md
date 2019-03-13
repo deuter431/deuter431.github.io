@@ -1,12 +1,15 @@
 ---
+title: code snippet test
 layout: post
-title:  "code snippet test"
-date:   2017-12-21
-desc: "Quick test on writing code snippets in a blog post"
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
-tags: [Jalpc,Jekyll]
-icon: icon-html
+date: '2017-12-21'
+desc: Quick test on writing code snippets in a blog post
+keywords: Jalpc,Jekyll,gh-pages,website,blog,easy
+categories:
+- Tips
+tags:
+- Jalpc
+- Jekyll
+icon: icon-git
 ---
 
 This is a raw snippet:
@@ -36,6 +39,8 @@ def say_hello():
 
 say_hello()   // "hello world!"
 ```
+
+추가한 이미지 : ![](/static/assets/img/blog/2019-03-13-17-17-51.png)
 
 ---
 
